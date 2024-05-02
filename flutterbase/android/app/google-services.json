@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062789909228",
+    "project_id": "flutterapalah",
+    "storage_bucket": "flutterapalah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062789909228:android:c0442c291d4e05356173c9",
+        "android_client_info": {
+          "package_name": "com.example.flutterbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWc65prV9SaaAkVoOyu1087gylJdIhXSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

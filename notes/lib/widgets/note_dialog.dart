@@ -41,7 +41,7 @@ class _NoteDialogState extends State<NoteDialog> {
   }
 
   Future<void> _getLocation() async {
-    final location = await LocationService().getCurrentLocation();
+    final location = await LocationService().getCurrentLocaton();
 
     setState(() {
       _position = location;

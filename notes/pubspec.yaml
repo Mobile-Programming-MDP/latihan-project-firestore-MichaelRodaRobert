@@ -44,6 +44,8 @@ dependencies:
   flutter_config: ^2.0.2
   google_maps_flutter: ^2.6.1
   latlong2: ^0.9.1
+  provider: ^6.1.2
+  share_plus: ^9.0.0
 
 dev_dependencies:
   flutter_test:
